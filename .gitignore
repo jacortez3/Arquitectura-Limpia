@@ -1,0 +1,4 @@
+#Evitar que se suba el entorno virtual
+Arquitectura/
+.idea/
+
